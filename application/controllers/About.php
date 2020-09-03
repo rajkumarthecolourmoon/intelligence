@@ -18,6 +18,9 @@ class About extends MY_Controller {
 
 		$this->load->view('about', $this->data);
     }
-  
+      public function add(){
+
+
+   }
 }
 ?>
